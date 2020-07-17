@@ -1,40 +1,40 @@
 {
   "ingredients": [
     {
-      "name": "Cauliflower"
+      "name": "cauliflower"
     },
     {
-      "name": "Capsicum"
+      "name": "capsicum"
     },
     {
-      "name": "Onion"
+      "name": "onion"
     },
     {
-      "name": "Mozzarella"
+      "name": "mozzarella"
     },
     {
-      "name": "Tortillas"
+      "name": "tortillas"
     },
     {
-      "name": "Corn"
+      "name": "corn"
     },
     {
-      "name": "Eggs"
+      "name": "eggs"
     },
     {
-      "name": "Spaghetti"
+      "name": "spaghetti"
     },
     {
-      "name": "Cream"
+      "name": "cream"
     },
     {
-      "name": "Tomato"
+      "name": "tomato"
     },
     {
-      "name": "Mushroom"
+      "name": "mushroom"
     },
     {
-      "name": "Bamboo"
+      "name": "bamboo"
     }
   ]
 }
