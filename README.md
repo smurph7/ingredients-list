@@ -1,4 +1,4 @@
-# Ingredients
+# Ingredients List
 JSONPlaceholder used to fake data http://jsonplaceholder.typicode.com/
 
 Access the data from https://my-json-server.typicode.com/smurph7/ingredients-list
